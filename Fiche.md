@@ -4,9 +4,10 @@ VOICI MA FICHE DE PRESENTATION :
 - Mes spécialitées
 - Parcours avenir envisagée
 - Pourquoi avoir fait la spécialité de science de l'ingénieur ?
-## Classe
+## Classe :
 Je suis en classe de Première Général 1, mon professeur principale est Monsieur Kerdoncuf.
-### Mes spéialitées
+
+### Mes spécialitées :
 Pour cette année de Première, j'ai pris pour spécialitées:
 1) Math
 2) Physique
@@ -14,7 +15,7 @@ Pour cette année de Première, j'ai pris pour spécialitées:
 
 Je pense que en fin de première je lâcherai peut être la SI pour afin garder les Math et la physique et peut être aller en math expert en Terminale
 
-#### Parcours envisagée après le Bac
+#### Parcours envisagée après le Bac :
 Après le bac je pense m'orienter vers une école d'ingénieur, je vise une école supérieur dans le top 10 en France. En plus d'une école d'ingénieur je souhaite aller en école de commerce je vise des écoles comme :
 - HEC
 - ESSEC
