@@ -25,4 +25,5 @@ Normalement ce parcours me prendra 7 ans ou 8 ans max et me permettra d'avoir un
 
 Cepedant pour intégrer ces écoles, il faut un excellent dossier parcours sup donc cela veut dire qu'il faudra que je travaille poru atteindre mes objectifs.
 ## Pourquoi avoir fait la spécialité de science de l'ingénieur ?
+J'ai choisi de faire la spécialitée Science de l'ingénieur car cela correspond à ce que je veux faire pour mon parcours avenir. 
 
