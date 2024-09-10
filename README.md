@@ -1,7 +1,7 @@
 # Classeur_SI-
 ## Sommaire
 
--[ma fiche](Fiche.md)
+- [ma fiche](Fiche.md)
 ## Voici un titre de niveau 2
 ### Et voici un titre de niveau 3
 Ceci est un paragraphe.
