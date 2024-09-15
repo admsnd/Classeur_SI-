@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-V2-Jn9pFnKT6-IyOrj1-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;strokeColor=#b85450;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="780" height="780" as="geometry" />
+        </mxCell>
         <mxCell id="zbCrqSj2yJn5MyzEJaYR-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Utilisateur&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="60" y="430" width="50" height="60" as="geometry" />
         </mxCell>
@@ -103,6 +106,12 @@
         </mxCell>
         <mxCell id="dEUHTyTfoQWTMVp9TkEj-27" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#ffffff&quot;&gt;L&#39;eau apparait implicitement comme matière d&#39;œuvre dans le cas, mais nous la faisions apparaitre explicitement dans ce diagramme.&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#ACC530;gradientColor=default;" parent="1" vertex="1">
           <mxGeometry x="627.5" y="160" width="185" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-V2-Jn9pFnKT6-IyOrj1-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-V2-Jn9pFnKT6-IyOrj1-3" value="uc [Paquet] Description comportementale [ Utilisation quotidienne ]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
