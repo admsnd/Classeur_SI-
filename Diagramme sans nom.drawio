@@ -100,12 +100,12 @@
         </mxCell>
         <mxCell id="dEUHTyTfoQWTMVp9TkEj-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=8 8;strokeWidth=2;rounded=0;strokeColor=#F5F5F5;entryX=0.224;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="dEUHTyTfoQWTMVp9TkEj-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="320" as="sourcePoint" />
+            <mxPoint x="630" y="350" as="sourcePoint" />
             <mxPoint x="660" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dEUHTyTfoQWTMVp9TkEj-27" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#ffffff&quot;&gt;L&#39;eau apparait implicitement comme matière d&#39;œuvre dans le cas, mais nous la faisions apparaitre explicitement dans ce diagramme.&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#ACC530;gradientColor=default;" parent="1" vertex="1">
-          <mxGeometry x="627.5" y="160" width="185" height="100" as="geometry" />
+          <mxGeometry x="627.5" y="170" width="185" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-V2-Jn9pFnKT6-IyOrj1-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="90" width="410" height="30" as="geometry" />
