@@ -123,7 +123,7 @@
             <mxPoint x="120" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jnoNMknKNx9kA8rkDssw-49" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 12px;&quot;&gt;RESISTANCE ELECTRIQUE&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="jnoNMknKNx9kA8rkDssw-49" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 12px;&quot;&gt;RESAUX ELECTRIQUE&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="113" y="845" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jnoNMknKNx9kA8rkDssw-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;RESISTANCE CHAUFFANTE&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -210,7 +210,7 @@
         <mxCell id="JupGLcs_1jnKuInsy8OS-36" value="&lt;b&gt;&lt;font color=&quot;#4c0099&quot; style=&quot;font-size: 18px;&quot;&gt;Mesure tension = image de la température&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="630" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JupGLcs_1jnKuInsy8OS-37" value="Chaine d&#39;énergie/d&#39;information d&#39;une bouilloire électrique" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="JupGLcs_1jnKuInsy8OS-37" value="Chaine d&#39;énergie/d&#39;information d&#39;une bouilloire électrique" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="60" y="360" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JupGLcs_1jnKuInsy8OS-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jnoNMknKNx9kA8rkDssw-12">
