@@ -52,6 +52,9 @@
             <mxPoint x="710" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vFz80GGjSzykPLV0MQeT-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vFz80GGjSzykPLV0MQeT-15" target="vFz80GGjSzykPLV0MQeT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-15" value="OEUF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="665" y="140" width="60" height="30" as="geometry" />
         </mxCell>
@@ -81,6 +84,15 @@
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-31" value="ENERGIE THERMIQUE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="130" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vFz80GGjSzykPLV0MQeT-33" value="ACTION MECANIQUE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="420" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vFz80GGjSzykPLV0MQeT-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.559;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vFz80GGjSzykPLV0MQeT-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="260" as="sourcePoint" />
+            <mxPoint x="693" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
