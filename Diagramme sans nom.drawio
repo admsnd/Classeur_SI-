@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vFz80GGjSzykPLV0MQeT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="10" y="190" width="750" height="200" as="geometry" />
+          <mxGeometry x="10" y="200" width="750" height="190" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFz80GGjSzykPLV0MQeT-1" target="vFz80GGjSzykPLV0MQeT-2">
           <mxGeometry relative="1" as="geometry" />
@@ -35,13 +35,13 @@
           <mxGeometry x="650" y="230" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-10" value="courant éléctrique&lt;div&gt;240 V&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="15" y="300" width="130" height="30" as="geometry" />
+          <mxGeometry x="15" y="290" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-11" value="Moteur éléctrique" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="300" width="130" height="30" as="geometry" />
+          <mxGeometry x="325" y="290" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-12" value="Réducteur de vitesse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="485" y="300" width="130" height="30" as="geometry" />
+          <mxGeometry x="485" y="290" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vFz80GGjSzykPLV0MQeT-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -52,7 +52,7 @@
         <mxCell id="vFz80GGjSzykPLV0MQeT-15" value="OEUF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="665" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vFz80GGjSzykPLV0MQeT-16" value="OEUF BROULLIE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vFz80GGjSzykPLV0MQeT-16" value="OEUF NEIGE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="350" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -80,13 +80,16 @@
           <mxGeometry x="510" y="130" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-33" value="ACTION MECANIQUE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="420" width="145" height="30" as="geometry" />
+          <mxGeometry x="560" y="420" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vFz80GGjSzykPLV0MQeT-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.559;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vFz80GGjSzykPLV0MQeT-33">
+        <mxCell id="vFz80GGjSzykPLV0MQeT-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.559;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="260" as="sourcePoint" />
-            <mxPoint x="693" y="230" as="targetPoint" />
+            <mxPoint x="628.95" y="260" as="sourcePoint" />
+            <mxPoint x="630.0049999999999" y="419.01" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vFz80GGjSzykPLV0MQeT-36" value="Cable de courant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="290" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
