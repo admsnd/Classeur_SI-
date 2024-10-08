@@ -38,12 +38,9 @@
           <mxGeometry x="15" y="300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-11" value="Moteur éléctrique" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="165" y="300" width="130" height="30" as="geometry" />
+          <mxGeometry x="320" y="300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-12" value="Réducteur de vitesse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="325" y="300" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vFz80GGjSzykPLV0MQeT-13" value="Mécanisme de rotation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="485" y="300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vFz80GGjSzykPLV0MQeT-8">
