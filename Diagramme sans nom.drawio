@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vFz80GGjSzykPLV0MQeT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vFz80GGjSzykPLV0MQeT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="10" y="190" width="740" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFz80GGjSzykPLV0MQeT-1" target="vFz80GGjSzykPLV0MQeT-2">
@@ -52,10 +52,10 @@
             <mxPoint x="710" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vFz80GGjSzykPLV0MQeT-15" value="oeuf&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vFz80GGjSzykPLV0MQeT-15" value="OEUF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="665" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vFz80GGjSzykPLV0MQeT-16" value="oeuf brouillé" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vFz80GGjSzykPLV0MQeT-16" value="OEUF BROULLIE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="350" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -66,12 +66,12 @@
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-60" y="260" as="sourcePoint" />
+            <mxPoint x="-140" y="260" as="sourcePoint" />
             <mxPoint x="20" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vFz80GGjSzykPLV0MQeT-27" value="Energie éléctrique" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="230" width="120" height="30" as="geometry" />
+        <mxCell id="vFz80GGjSzykPLV0MQeT-27" value="ENERGIE ELECTRIQUE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="230" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
