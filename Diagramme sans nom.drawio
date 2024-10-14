@@ -45,12 +45,12 @@
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;strokeWidth=8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="694.5" y="170" as="sourcePoint" />
-            <mxPoint x="694.5" y="230" as="targetPoint" />
+            <mxPoint x="694.5" y="160" as="sourcePoint" />
+            <mxPoint x="694.5" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-15" value="&lt;b&gt;&lt;font color=&quot;#0d0d0d&quot; face=&quot;Courier New&quot;&gt;OEUF&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="665" y="140" width="60" height="30" as="geometry" />
+          <mxGeometry x="665" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-16" value="&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;OEUF NEIGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="630" y="350" width="130" height="30" as="geometry" />
