@@ -41,7 +41,7 @@
           <mxGeometry x="325" y="290" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-12" value="&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;Réducteur de vitesse&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="485" y="290" width="130" height="30" as="geometry" />
+          <mxGeometry x="490" y="300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFz80GGjSzykPLV0MQeT-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;strokeWidth=8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -88,7 +88,7 @@
             <mxPoint x="630.0049999999999" y="419.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vFz80GGjSzykPLV0MQeT-36" value="&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;Cable de courant&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="vFz80GGjSzykPLV0MQeT-36" value="&lt;b&gt;&lt;font face=&quot;Courier New&quot;&gt;Câble de courant&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="165" y="290" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
