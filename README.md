@@ -8,3 +8,13 @@
 1. Classer les différentes activitées
 2. Organiser mon travail
 3. Avoir le contenue de mes cours version numérique
+
+## Chapitres :
+### Analyse fonctionnel
+- Interne
+- Externe
+- différent diagramme (drawio)
+###  Compte-Energie et puissance
+- Compte-rendue sur énergie et puissance(pdf24 et notebook)
+- Note linéaire sur Jean Marc JANCOVICI
+- Exercices sur le SunSeaRider
