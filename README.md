@@ -17,7 +17,7 @@
 - Externe
 - différent diagramme (drawio)
 ###  Compte-Energie et puissance
-https://github.com/admsnd/Classeur_SI-/tree/main/Compte-Energie
+-https://github.com/admsnd/Classeur_SI-/tree/main/Compte-Energie
 - Compte-rendue sur énergie et puissance(pdf24 et notebook)
 - Note linéaire sur Jean Marc JANCOVICI
 - Exercices sur le SunSeaRider
