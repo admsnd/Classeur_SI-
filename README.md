@@ -12,7 +12,7 @@
 
 ## Chapitres :
 ### Analyse fonctionnel
-https://github.com/admsnd/Classeur_SI-/tree/main/AF
+-https://github.com/admsnd/Classeur_SI-/tree/main/AF
 - Interne
 - Externe
 - différent diagramme (drawio)
@@ -21,3 +21,5 @@ https://github.com/admsnd/Classeur_SI-/tree/main/Compte-Energie
 - Compte-rendue sur énergie et puissance(pdf24 et notebook)
 - Note linéaire sur Jean Marc JANCOVICI
 - Exercices sur le SunSeaRider
+## Dossier Capytale
+-https://github.com/admsnd/Classeur_SI-/tree/main/Capytale
