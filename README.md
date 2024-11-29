@@ -7,6 +7,7 @@
 1. Classer les différentes activitées
 2. Organiser mon travail
 3. Avoir le contenue de mes cours version numérique
+4. Sortir de ma zone de confort !!
 
 ## Chapitres :
 ### Analyse fonctionnel
@@ -15,6 +16,7 @@ https://github.com/admsnd/Classeur_SI-/tree/main/AF
 - Externe
 - différent diagramme (drawio)
 ###  Compte-Energie et puissance
+https://github.com/admsnd/Classeur_SI-/tree/main/Compte-Energie
 - Compte-rendue sur énergie et puissance(pdf24 et notebook)
 - Note linéaire sur Jean Marc JANCOVICI
 - Exercices sur le SunSeaRider
