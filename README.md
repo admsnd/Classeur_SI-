@@ -8,6 +8,7 @@
 2. Organiser mon travail
 3. Avoir le contenue de mes cours version numérique
 4. Sortir de ma zone de confort !!
+    ![image]([https://github.com/user-attachments/assets/b4a341a5-8a51-4e6a-bfd7-6d1919cf0c80](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp))
 
 ## Chapitres :
 ### Analyse fonctionnel
