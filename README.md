@@ -9,8 +9,9 @@ https://github.com/admsnd/Classeur_SI-/blob/main/Fiche.md
 1. Classer les différentes activitées
 2. Organiser mon travail
 3. Avoir le contenue de mes cours version numérique
-4. Sortir de ma zone de confort !!
-![image](https://www.zebrezen.fr/wp-content/uploads/2019/11/sortir-zone-confort-1024x1024.jpg)
+4. Ce consistuer un dossier PARCOURS SUP
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.enseignementsup-recherche.gouv.fr%2Ffr%2Fouverture-de-la-plateforme-parcoursup-le-15-janvier-2018-46795&psig=AOvVaw1Yq2mo18t4cQk23g6U-ua9&ust=1757419842405000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjgxtickcmPAxWrmScCHZSVGJMQjRx6BAgAEBo![image](https://github.com/user-attachments/assets/25276fde-9467-4007-bdf8-c558dcea424f)
+)
 
 ## Chapitres :
 ### Analyse fonctionnel
